@@ -9009,7 +9009,7 @@
     /*text-transform: uppercase;*/
     font-weight: 700;
     font-family: dimboo, dimbo, DimboRegular, arial, sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: -1px;
     /*background: linear-gradient(to right, #095fab 10%, #25abe8 50%, #57d75b 60%);*/
     background: linear-gradient(to right, #f1aa3c 10%, #f1aa3c 50%, #58af47 60%);
 
