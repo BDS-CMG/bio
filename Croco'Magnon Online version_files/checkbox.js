@@ -35,7 +35,7 @@ function turnDark() {
 
     H2[0].style.color = 'white';
     H2[1].style.color = 'white';
-    H2[2].style.color = 'white';
+    //H2[2].style.color = 'white';
     //H2[3].style.color = 'white';
 
     
@@ -54,7 +54,7 @@ function turnLight() {
 
     H2[0].style.color = '#0b2425';
     H2[1].style.color = '#0b2425';
-    H2[2].style.color = '#0b2425';
+    //H2[2].style.color = '#0b2425';
     //H2[3].style.color = '#0b2425';
 
     
